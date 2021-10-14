@@ -35,4 +35,4 @@ Soy Analista de Sistemas y desarrollador Web Backend utilizando mayormente Pytho
 
 </br></br></br><hr></br>
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=robertowest)](https://github.com/robertowest/github-readme-stats)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=robertowest&show_icons=true&theme=prussian)
