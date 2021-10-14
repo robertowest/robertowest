@@ -4,7 +4,7 @@
 
 Soy Analista de Sistemas y desarrollador Web Backend utilizando mayormente Python y Django como framework.
 
-</br></br><hr></br></br>
+</br><hr></br>
 
 ### Lenguajes y herramientas
 <img align="left" alt="Python" width="48px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" />
@@ -26,8 +26,7 @@ Soy Analista de Sistemas y desarrollador Web Backend utilizando mayormente Pytho
 
 <img align="left" alt="Terminal" width="48px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/terminal_icon_131942.png" />
 
-</br></br><hr></br></br>
-
+</br><hr></br>
 
 ### Conectate con migo
 [<img align="left" alt="LinkedIn" width="80px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" />](https://ar.linkedin.com/in/robertowest)
@@ -35,6 +34,6 @@ Soy Analista de Sistemas y desarrollador Web Backend utilizando mayormente Pytho
 [<img align="left" alt="GMail" width="80px" src="https://cdn.icon-icons.com/icons2/827/PNG/512/email_icon-icons.com_66532.png" />](mailto:roberto.west@gmail.com?subject=[GitHub]%20Saludos%20desde%20GitHub)
 </br></br></br></br>
 
-</br></br><hr></br></br>
+</br><hr></br>
 
 [![Estadísticas](https://github-readme-stats.vercel.app/api?username=robertowest)](https://github.com/robertowest/github-readme-stats)
