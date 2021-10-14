@@ -33,6 +33,6 @@ Soy Analista de Sistemas y desarrollador Web Backend utilizando mayormente Pytho
 [<img align="left" alt="WhatsApp" width="80px" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" />](https://api.whatsapp.com/send?phone=5493816168251&text=Hola%20Roberto,%20)
 [<img align="left" alt="GMail" width="80px" src="https://cdn.icon-icons.com/icons2/827/PNG/512/email_icon-icons.com_66532.png" />](mailto:roberto.west@gmail.com?subject=[GitHub]%20Saludos%20desde%20GitHub)
 
-</br><hr></br>
+</br></br><hr></br>
 
 [![Estadísticas](https://github-readme-stats.vercel.app/api?username=robertowest)](https://github.com/robertowest/github-readme-stats)
