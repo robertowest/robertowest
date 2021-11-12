@@ -2,7 +2,7 @@
 
 # Hola, mi nombre es Roberto
 
-Soy Analista de Sistemas y me dedico mayormente al desarrollo de sistemas utilizandoactualmente Python y Django como web-framework.
+Soy Analista de Sistemas y me dedico mayormente al desarrollo de sistemas utilizando Python y Django como web-framework.
 
 </br><hr>
 
