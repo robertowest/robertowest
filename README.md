@@ -36,3 +36,4 @@ Soy Analista de Sistemas y me dedico mayormente al desarrollo de sistemas utiliz
 </br></br></br><hr></br>
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=robertowest&show_icons=true&theme=prussian)
+![CV](https://github-readme-stats.vercel.app/api/pin/?username=robertowest&amp;repo=robertowest.github.io&amp;theme=prussian)
