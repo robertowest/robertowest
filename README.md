@@ -30,7 +30,7 @@ Soy Analista de Sistemas y me dedico mayormente al desarrollo de sistemas utiliz
 
 ### Conectate conmigo
 [<img align="left" alt="LinkedIn" width="48px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" />](https://ar.linkedin.com/in/robertowest)
-[<img align="left" alt="WhatsApp" width="48px" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" />](https://api.whatsapp.com/send?phone=5493816168251&text=Hola%20Roberto,%20)
+[<img align="left" alt="WhatsApp" width="48px" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" />](https://api.whatsapp.com/send?phone=34602504954&text=Hola%20Roberto,%20)
 [<img align="left" alt="GMail" width="48px" src="https://cdn.icon-icons.com/icons2/827/PNG/512/email_icon-icons.com_66532.png" />](mailto:roberto.west@gmail.com?subject=[GitHub]%20Saludos%20desde%20GitHub)
 
 </br></br></br><hr></br>
